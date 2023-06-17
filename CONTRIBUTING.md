@@ -1,4 +1,4 @@
-# Contributing to the SiaCashCoin ecosystem 
+# Contributing to the AmstaffSwap ecosystem 
 AMF project is an open source fork of PCS 
 
 Thanks for taking the time to contribute the link also apply to this repository!
