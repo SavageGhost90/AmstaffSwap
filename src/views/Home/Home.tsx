@@ -15,7 +15,7 @@ import useFetchLotteryForPromos from 'views/Home/hooks/useFetchLotteryForPromos'
 
 const Hero = styled.div`
   align-items: center;
-  background-image: url('/images/mobile-bg-scc.png');
+  background-image: url('/images/mobile-bg-amf.png');
   background-repeat: no-repeat;
   background-position: top center;
   display: flex;

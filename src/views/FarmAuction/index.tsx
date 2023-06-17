@@ -81,7 +81,7 @@ const FarmAuction = () => {
             </Link>
           </Left>
           <Right>
-            <img src="/images/scc.svg" alt="AMF Auction" />
+            <img src="/images/amf.svg" alt="AMF Auction" />
           </Right>
         </Flex>
       </StyledHeader>
