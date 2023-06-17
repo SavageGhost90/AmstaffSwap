@@ -16,8 +16,6 @@ yarn start
 
 (after development server is launched you may view the site via localhost in your browser if forking our project repository to make your own frontend you should run a " yarn build " to generate a new build folder after you have made some changes. Then take the build folder and manually upload to netlify your site will be live. If you would like to connect your frontend to github which we highly recommend so the project is open source you will need to publish the UiKit as your own npm package to then update package.json and upate all imports in this repsitory) 
 
-If you need help forking and rebranding our frontend for your own token contact us contact@siacashcoin.com or on Telegram @siacashcoindev we are happy to help!
-
 Don't forget to setup your IDE with `eslint` and `prettier`.
 
 ## Project structure
