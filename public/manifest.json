@@ -1,8 +1,8 @@
 {
   "short_name": "SiaCashCoin",
   "name": "SiaCashCoin",
-  "description": "Farm SCC with SiaCashCoin LP Tokens",
-  "homepage_url": "https://siacashcoin.com",
+  "description": "Farm AMF with AmstaffSwap LP Tokens",
+  "homepage_url": "https://amstaffswap.com",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",
