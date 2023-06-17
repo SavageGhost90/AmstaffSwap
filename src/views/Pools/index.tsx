@@ -290,7 +290,7 @@ const Pools: React.FC = () => {
         <Image
           mx="auto"
           mt="12px"
-          src="/images/scc.png"
+          src="/images/amf.png"
           // alt="Pancake illustration"
           width={375}
           height={150}
