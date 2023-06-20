@@ -93,9 +93,9 @@ const App: React.FC = () => {
             <Route path="/teams/:id">
               <Team />
             </Route>
-            {/* <Route path="/profile">
+             <Route path="/profile">
               <Profile />
-            </Route> */}
+            </Route> 
             <Route path="/competition">
               <TradingCompetition />
             </Route>

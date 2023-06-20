@@ -56,22 +56,22 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
   //   href: '/competition',
   // },
   // {
-  //   label: t('Teams & Profile'),
+  //   label: t('Profile'),
   //   icon: 'GroupsIcon',
   //   items: [
-  //     {
-  //       label: t('Leaderboard'),
-  //       href: '/teams',
-  //     },
-  //     {
-  //       label: t('Task Center'),
-  //       href: '/profile/tasks',
-  //     },
-  //     {
-  //       label: t('Your Profile'),
-  //       href: '/profile',
-  //     },
-  //   ],
+      // {
+      //   label: t('Leaderboard'),
+      //   href: '/teams',
+      // },
+      // {
+      //   label: t('Task Center'),
+      //   href: '/profile/tasks',
+     // },
+     //  {
+     //    label: t('Your Profile'),
+     //    href: '/profile',
+     //  },
+   //  ],
   // },
   // {
   //   label: t('Info'),
