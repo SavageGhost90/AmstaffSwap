@@ -841,7 +841,7 @@ fork: {
   syrup: {
     symbol: 'SYRUP',
     address: {
-      56: '0x35C48Cc779337f5BE737cD73750137981480eF23',
+      56: '0x05656296bf3ae102f27ad0048b7469f8ad740ffa',
       97: '',
     },
     decimals: 18,

@@ -16,7 +16,7 @@ export const BASE_BSC_SCAN_URLS = {
 
 // AMF_PER_BLOCK details
 
-export const AMF_PER_BLOCK = new BigNumber(200)
+export const AMF_PER_BLOCK = new BigNumber(40)
 export const BLOCKS_PER_YEAR = new BigNumber((60 / BSC_BLOCK_TIME) * 60 * 24 * 365) // 10512000
 export const AMF_PER_YEAR = AMF_PER_BLOCK.times(BLOCKS_PER_YEAR)
 export const BASE_URL = 'https://amstaffswap.com'
