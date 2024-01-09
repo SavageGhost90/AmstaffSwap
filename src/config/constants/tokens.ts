@@ -10,7 +10,7 @@ export const AMF: { [chainId: number]: Token } = {
   ),
   [ChainId.TESTNET]: new Token(
     ChainId.TESTNET,
-    '0x77639ee74CD99cF99c6340d50a66BEC7aD4DCf96',
+    '0x55eeCf210E4bB36534077083423e579869CF7Cc0',
     18,
     'AMF',
     'AmstaffSwap Token',
