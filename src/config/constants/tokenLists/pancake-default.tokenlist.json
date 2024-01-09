@@ -164,6 +164,14 @@
       "logoURI": "https://amstaffswap.com/images/tokens/0x77639ee74CD99cF99c6340d50a66BEC7aD4DCf96.png"
     },
     {
+      "name": "AmstaffSwap Token",
+      "symbol": "AMF",
+      "address": "0x55eeCf210E4bB36534077083423e579869CF7Cc0",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://amstaffswap.com/images/tokens/0x77639ee74CD99cF99c6340d50a66BEC7aD4DCf96.png"
+    },
+    {
       "name": "Pixie Token",
       "symbol": "PIXIE",
       "address": "0x194177eee285b6827457e183e0e52b54e8f6f624",
