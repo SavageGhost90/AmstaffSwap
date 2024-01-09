@@ -9,7 +9,7 @@ const farms: FarmConfig[] = [
     pid: 0,
     lpSymbol: 'AMF',
     lpAddresses: {
-      97: '',
+      97: '0x55eeCf210E4bB36534077083423e579869CF7Cc0',
       56: '0x77639ee74CD99cF99c6340d50a66BEC7aD4DCf96',
     },
     token: tokens.syrup,
